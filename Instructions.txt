@@ -1,0 +1,1 @@
+Use left and right mouse buttons to spawn particles
